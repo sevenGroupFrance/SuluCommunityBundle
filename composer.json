@@ -1,5 +1,5 @@
 {
-    "name": "sulu/community-bundle",
+    "name": "sevengroupfrance/community-bundle",
     "description": "Sulu Bundle for building a community",
     "type": "sulu-bundle",
     "license": "MIT",
@@ -11,7 +11,7 @@
         "doctrine/orm": "^2.5.3",
         "jms/serializer-bundle": "^3.3",
         "massive/build-bundle": "^0.3 || ^0.4 || ^0.5",
-        "sulu/sulu": "^2.0.6 || ^2.3@dev",
+        "sulu/sulu": "^2.0.6 || ^2.4",
         "symfony/config": "^4.3 || ^5.0",
         "symfony/console": "^4.3 || ^5.0",
         "symfony/dependency-injection": "^4.3 || ^5.0",
