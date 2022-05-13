@@ -1,5 +1,5 @@
 {
-    "name": "sevengroupfrance/community-bundle",
+    "name": "sulu/community-bundle",
     "description": "Sulu Bundle for building a community",
     "type": "sulu-bundle",
     "license": "MIT",
@@ -61,7 +61,7 @@
     "homepage": "https://github.com/sulu/SuluCommunityBundle",
     "autoload": {
         "psr-4": {
-            "SevenGroupFrance\\Bundle\\CommunityBundle\\": ""
+            "Sulu\\Bundle\\CommunityBundle\\": ""
         }
     },
     "config": {
