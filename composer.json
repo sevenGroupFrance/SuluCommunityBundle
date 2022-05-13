@@ -64,7 +64,7 @@
     "homepage": "https://github.com/sulu/SuluCommunityBundle",
     "autoload": {
         "psr-4": {
-            "sulu\\Bundle\\CommunityBundle\\": ""
+            "Sulu\\Bundle\\CommunityBundle\\": ""
         }
     },
     "scripts": {
